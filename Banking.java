@@ -1,4 +1,3 @@
-package Day2;
 
 class Accounts{
     int acct_no;
